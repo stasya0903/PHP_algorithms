@@ -1,2 +1,2 @@
 # PHP_algorithms
-practice for the courser PHP algorithms on geekbrains.ru
+practice task for the course PHP algorithms on geekbrains.ru
